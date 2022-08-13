@@ -48,7 +48,23 @@ class Data:
     ABOUT = """
 <b>Tentang Bot ini:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} PROMO VVIP TERBATAS🥳
+
+
+✅2GRUP VVIP TERBARU HANYA 50K 
+5 GROUB 100K VVIP 
+ALL. GROUB 300K DAPET SEMUA 
+
+TERDIRI DARI ( VVIP INDO ,VVIP HIJAB, VVIP LIVE , VVIP JAV ,VVIP ASIAN , ONLYFANS , VVIP AMBIYAH ) 
+
+❗️BONUS 2 VVIP BOCIL BAGI YANG JOIN VVIP SULTAN❗️
+
+⚠️VVIP SULTAN PERMANEN  SAMPE TOBAT , DAN UPDATE SETIAP HARI⚠️
+
+
+MINAT HUBUNGI : @ownervvipterbaru19
+
+TESTIMONI: https://t.me/Testitermurah.
 
  • Creator: @{}
  • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
